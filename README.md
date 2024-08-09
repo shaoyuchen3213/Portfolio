@@ -20,7 +20,7 @@
 
 ## Built With
 
-My personal portfolio <a href="[https://shaoyuchen3213.github.io/Portfolio/]" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="[https://shaoyuchen3213.github.io/Portfolio/]" target="_blank">shaoyuchen3213.github.io/Portfolio/</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
