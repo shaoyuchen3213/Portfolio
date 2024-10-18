@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import editor from "../../Assets/Projects/codeEditor.png";
 import cruise from "../../Assets/Projects/landingpage.gif";
 import Huskey from "../../Assets/Projects/Huskey.gif";
+import Reggie from "../../Assets/Projects/takeout.png";
 
 function Projects() {
   return (
@@ -48,6 +49,18 @@ function Projects() {
               description="Project Atelier is a desktop and mobile friendly app utilizing Node.js, React and Express to provide a modern e-commerce portal that is not just functional, but also intuitive and user-friendly. The backend service created here utilizes NginX, PostgreSQL to create a seamless flow of data to the client, and allowing for horizontal scaling to handle increased traffic while maintaining low service response times."
               ghLink="https://github.com/shaoyuchen3213/Huskey-Helper-Products"
               // demoLink="https://editor.soumya-jit.tech/"              
+            />
+          </Col>
+        </Row>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Reggie}
+              isBlog={false}
+              title="R"
+              description="Login to the system, have full access to the backend system Staff: Login to the system, only can modify the order and meal Client: login through mobile device, search meal and add to the cart, setting address, make order."
+              ghLink="https://github.com/shaoyuchen3213/Regiee_takeout"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
