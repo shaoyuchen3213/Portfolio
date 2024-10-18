@@ -57,7 +57,7 @@ function Projects() {
             <ProjectCard
               imgPath={Reggie}
               isBlog={false}
-              title="R"
+              title="Reggie Takeout"
               description="Login to the system, have full access to the backend system Staff: Login to the system, only can modify the order and meal Client: login through mobile device, search meal and add to the cart, setting address, make order."
               ghLink="https://github.com/shaoyuchen3213/Regiee_takeout"
               // demoLink="https://chatify-49.web.app/"
